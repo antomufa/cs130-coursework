@@ -3331,6 +3331,11 @@
 			flex-basis: 60%;
 		}
 
+.content {
+	padding-left: 150px;
+	padding-right: 150px;
+		}
+
 			.panel.banner .content > .actions:last-child {
 				margin-bottom: 1.5rem;
 			}
@@ -3649,6 +3654,7 @@
 			height: auto;
 			margin: 0 0 5rem 0;
 			box-shadow: 0 0.25rem 1.5rem 0.25rem rgba(46, 43, 55, 0.5);
+			width: 100vw;
 		}
 
 			#wrapper > .scrollZone {
